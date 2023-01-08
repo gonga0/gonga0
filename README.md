@@ -1,7 +1,7 @@
 ### Hi there 👋
 # gonga0
 
-![gonga0's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonga0&show_icons=true&theme=dark)
+![gonga0's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonga0&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswo1368)](https://solved.ac/tlswo1368/)
 # 💪Skills
 ### Platforms & Languages
